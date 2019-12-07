@@ -1,3 +1,3 @@
 # Backend
 
-![Image description](https://imgur.com/UraezMe)
+![Image description](https://i.imgur.com/UraezMe.png)
