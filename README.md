@@ -3,7 +3,7 @@
 <div align="center">
   
 ## Database Relationships
-![Database Relationship](database\plannedTableRelationships.png)
+![Database Relationship](https://github.com/Project-FieldNova/Backend/blob/readme-planning/database/plannedTableRelationships.png?raw=true)
 </div>
 
 ## Database Resources
