@@ -3,7 +3,7 @@
 <div align="center">
   
 ## Database Relationships
-![Database Relationship](https://i.imgur.com/UraezMe.png)
+![Database Relationship](database\plannedTableRelationships.png)
 </div>
 
 ## Database Resources
@@ -142,8 +142,7 @@
 ## Tech. Stack
 </div>
 
-### Node.js
-### Express
+### Node/Express.js
 ### PostGreSQL
 ### Knex
-### Firebase
+### Firebase (Authentication Only)
